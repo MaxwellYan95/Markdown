@@ -8,7 +8,6 @@ _Italic 1_
 *Italic 2*
 'Code Line Format: '
 '''
-Code Block Format
 public void main(String[] args) {
   //Something
 }
