@@ -11,14 +11,10 @@ _Italic 1_
 
 *Italic 2*
 
-'Code Line Format: '
+Inline 'code'
 
 '''
-
 public void main(String[] args) {
-
   // Something
-  
 }
-
 '''
