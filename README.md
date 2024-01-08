@@ -18,3 +18,5 @@ public void main(String[] args) {
   // Something
 }
 ```
+
+> Quote
